@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'Pacifico';
+    src: url(../font/Pacifico/Pacifico-Regular.eot);
+    src: local('Pacifico Regular'), local('Pacifico-Regular'),
+        url(../font/Pacifico/Pacifico-Regular.eot?#iefix) format('embedded-opentype'),
+        url(../font/Pacifico/Pacifico-Regular.woff) format('woff'),
+        url(../font/Pacifico/Pacifico-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeue-Medium';
+    src: url(../font/HelveticaNeue-Medium/HelveticaNeue-Medium.eot);
+    src: local('Pacifico Regular'), local('Pacifico-Regular'),
+        url(../font/Pacifico/HelveticaNeue-Medium/HelveticaNeue-Medium.eot#iefix) format('embedded-opentype'),
+        url(../font/HelveticaNeue-Medium/HelveticaNeue-Medium.woff) format('woff'),
+        url(../font/HelveticaNeue-Medium/HelveticaNeue-Medium.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'Raleway Semibold';
+	src: url(../font/Raleway-Semibold/Raleway-SemiBold.eot);
+	src: url(../font/Raleway-Semibold/Raleway-SemiBold.eot?#iefix) format('embedded-opentype'),
+		url(../font/Raleway-Semibold/Raleway-SemiBold.woff) format('woff'),
+		url(../font/Raleway-Semibold/Raleway-SemiBold.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Helvetica';
+	src: url(../font/Helvetica/HelveticaLight.eot);
+	src: url(../font/Helvetica/HelveticaLight.eot?#iefix) format('embedded-opentype'),
+		url(../font/Helvetica/HelveticaLight.woff) format('woff'),
+		url(../font/Helvetica/HelveticaLight.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'HelveticaNeue-Italic';
+	src: url(../font/HelveticaNeue-Italic/HelveticaNeueCyr-LightItalic.eot);
+	src: url(../font/HelveticaNeue-Italic/HelveticaNeueCyr-LightItalic.eot?#iefix) format('embedded-opentype'),
+		url(../font/HelveticaNeue-Italic/HelveticaNeueCyr-LightItalic.woff) format('woff'),
+		url(../font/HelveticaNeue-Italic/HelveticaNeueCyr-LightItalic.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+
+
+
+
+
+

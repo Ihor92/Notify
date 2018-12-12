@@ -24,6 +24,10 @@ body {
 	min-width: 320px;
 }
 
+header, section, footer {
+	padding: 0 50px;
+}
+
 a {
 	text-decoration: none;
 }
@@ -100,10 +104,6 @@ ul li {
 }
 /*--------Finish--------*/
 
-header, section, footer {
-	padding: 0 50px;
-}
-
 /*Header*/
 header {
 	background: url(../img/wrap.png) no-repeat center center / cover;
@@ -113,6 +113,7 @@ header {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
+
 }
 h1 span {
 	color: #2ecc71;
@@ -124,29 +125,32 @@ h1 span {
 .title p {
 	max-width: 453px;
 	font-size: 24px;
-	font-family: "HelveticaNeue-Medium";
+	font-family: 'HelveticaNeue-Medium';
+
 }
 
 .operating_systems {
 	border-radius: 50%;
 	background: #38261d;
 	margin-left: 15px;
-	-moz-transition: all 0.5s; 
-	-webkit-transition: all 0.5s;  
-	-ms-transition: all 0.5s;  
-	-o-transition: all 0.5s;  
-	transition: all 0.5s;
+	-moz-transition: all .5s;
+	-webkit-transition: all .5s;
+	-ms-transition: all .5s;
+	-o-transition: all .5s;
+	transition: all .5s;
+
 }
 
 .operating_systems i {
 	font-size: 23px;
 	color: #b19e95;
 	border-radius: 50%;
-	-moz-transition: all 0.5s; 
-	-webkit-transition: all 0.5s;  
-	-ms-transition: all 0.5s;  
-	-o-transition: all 0.5s;  
-	transition: all 0.5s; 
+	-moz-transition: all .5s;
+	-webkit-transition: all .5s;
+	-ms-transition: all .5s;
+	-o-transition: all .5s;
+	transition: all .5s;
+
 }
 
 .os:hover {
@@ -303,9 +307,13 @@ input {
 }
 .google-plus {
 	padding: 9px 8px;
+	width: 19px;
+	height: 17px;
 }
 .youtube {
-	padding: 5px 8px;
+	padding: 4px 8px;
+	width: 18px;
+	height: 24px;
 }
 
 .networks img {

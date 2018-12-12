@@ -272,7 +272,7 @@ input {
 }
 
 .networks i {
-	font-size: 20px;
+	/*font-size: 20px;*/
 	border-radius: 50%;
 	-moz-transition: all 0.5s; 
 	-webkit-transition: all 0.5s;  
@@ -292,6 +292,7 @@ input {
 	max-width: 275px;
 	margin: 30px auto 60px;
 }
+
 
 .fa-twitter {
 	padding: 7px;
@@ -317,7 +318,7 @@ input {
 }
 
 .networks img {
-	font-size: 20px;
+	/*font-size: 20px;*/
 	border-radius: 50%;
 }
 

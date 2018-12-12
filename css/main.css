@@ -178,7 +178,7 @@ section .content h2 {
 
 section .content p {
 	font-size: 16px;
-	padding-bottom: 60px;
+	padding: 0 20px 60px;
 }
 
 /*Second section*/
@@ -203,7 +203,7 @@ iframe {
 button {
 	font-family: 'Raleway Semibold';
 	background: #2ecc71;
-	width: 141px;
+	width: 23%;
 	height: 56px;
 	border-radius: 0 12px 12px 0;
 	border: 1px solid #2ecc71;
@@ -212,7 +212,7 @@ button {
 }
 
 input {
-	width: 304px;
+	width: 50%;
 	height: 53px;
 	border: 1px solid #c8c8c8;
 	border-radius: 12px 0 0 12px;
@@ -222,7 +222,7 @@ input {
 /*Third section*/
 .text_in_section {
 	max-width: 825px;
-	padding-top: 60px;
+	padding-top: 60px !important;
 }
 
 .ta-c p {

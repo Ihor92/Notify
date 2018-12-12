@@ -272,7 +272,6 @@ input {
 }
 
 .networks i {
-	/*font-size: 20px;*/
 	border-radius: 50%;
 	-moz-transition: all 0.5s; 
 	-webkit-transition: all 0.5s;  
@@ -318,7 +317,6 @@ input {
 }
 
 .networks img {
-	/*font-size: 20px;*/
 	border-radius: 50%;
 }
 
